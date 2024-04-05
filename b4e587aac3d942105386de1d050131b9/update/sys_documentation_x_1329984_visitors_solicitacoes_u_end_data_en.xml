@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_end_data" label="Data da Saida" language="en" table="x_1329984_visitors_solicitacoes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_end_data</element>
+            <help/>
+            <hint/>
+            <label>Data da Saida</label>
+            <language>en</language>
+            <name>x_1329984_visitors_solicitacoes</name>
+            <plural>Data da Saidas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 18:26:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data da Saida</sys_name>
+            <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+            <sys_update_name>sys_documentation_x_1329984_visitors_solicitacoes_u_end_data_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 18:26:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
