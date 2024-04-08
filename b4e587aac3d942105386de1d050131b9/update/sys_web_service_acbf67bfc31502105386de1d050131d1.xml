@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_web_service">
+    <sys_web_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <function_name>execute</function_name>
+        <name>consultaCEP2.0</name>
+        <scoped_name>x_1329984_visitors_consultaCEP2.0</scoped_name>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+	if (isLoading || newValue == '') {
+		return;
+	}
+
+	buscarInformacaoEndereco('buscarRua', 'logradouro');
+	buscarInformacaoEndereco('buscarBairro', 'bairro');
+	buscarInformacaoEndereco('buscarCidade', 'cidade');
+	buscarInformacaoEndereco('buscarEstado', 'estado');
+
+	function buscarInformacaoEndereco(metodo, variavel) {
+		var gaRua = new GlideAjax('ViaCepIntegrationAjax');
+		gaRua.addParam('sysparm_name', metodo);
+		gaRua.addParam('sysparm_cep', newValue);
+		gaRua.getXML(callback);
+
+		function callback(response) {
+			var answer = response.responseXML.documentElement.getAttribute('answer');
+			if (answer) {
+				g_form.setValue(variavel, answer);
+			} else {
+				var valorCep = g_form.getValue('cep');
+				if (valorCep != '') {
+					g_form.clearValue('cep');
+					g_form.showFieldMsg('cep', '0 CEP " + cep + " não é válido.', 'error');
+				}
+			}
+		}
+	}
+}]]></script>
+        <short_description>Script atualizado para consultar CEP.</short_description>
+        <sys_class_name>sys_web_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 17:05:16</sys_created_on>
+        <sys_id>acbf67bfc31502105386de1d050131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>consultaCEP2.0</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_update_name>sys_web_service_acbf67bfc31502105386de1d050131d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 17:05:16</sys_updated_on>
+        <wsdl>https://dev243257.service-now.com/x_1329984_visitors_consultaCEP2.0.do?WSDL</wsdl>
+        <wsdl_compliance>true</wsdl_compliance>
+    </sys_web_service>
+</record_update>
