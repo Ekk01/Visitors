@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="932bdb26c35d42105386de1d050131f8" sys_domain="global" table="x_1329984_visitors_solicitacoes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>3337aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitante</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>b337aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitante.nome</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>3737aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitante.e_mail</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>b737aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitante.telefone</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>3b37aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitante.empresa</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>bb37aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>3f37aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>situacao</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>bf37aba2c39d42105386de1d05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>3337aba2c39d42105386de1d05013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_data</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+            <sys_id>b337aba2c39d42105386de1d05013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1329984_visitors_solicitacoes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 18:08:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>932bdb26c35d42105386de1d050131f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1329984_visitors_solicitacoes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+            <sys_update_name>sys_ui_section_932bdb26c35d42105386de1d050131f8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 18:08:34</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitors">b4e587aac3d942105386de1d050131b9</application>
+        <file_path/>
+        <instance_id>6a696d0c1b41821c78c7cb7b234bcb9a</instance_id>
+        <instance_name>dev243257</instance_name>
+        <name>sys_ui_section_932bdb26c35d42105386de1d050131f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="932bdb26c35d42105386de1d050131f8" sys_domain="global" table="x_1329984_visitors_solicitacoes" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>3337aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visitante</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>b337aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visitante.nome</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>3737aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visitante.e_mail</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>b737aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visitante.telefone</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>3b37aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visitante.empresa</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>bb37aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>3f37aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>situacao</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>bf37aba2c39d42105386de1d05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_start_date</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>3337aba2c39d42105386de1d05013115</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_end_data</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 19:01:18</sys_created_on><sys_id>b337aba2c39d42105386de1d05013115</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329984_visitors_solicitacoes" sys_domain="global" view="Default view">932bdb26c35d42105386de1d050131f8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 19:01:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1329984_visitors_solicitacoes</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 18:08:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>932bdb26c35d42105386de1d050131f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1329984_visitors_solicitacoes</sys_name><sys_overrides/><sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package><sys_policy/><sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope><sys_update_name>sys_ui_section_932bdb26c35d42105386de1d050131f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 18:08:34</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2119535778</payload_hash>
+        <record_name>Solicitações </record_name>
+        <reverted_from/>
+        <source>b4e587aac3d942105386de1d050131bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 19:01:18</sys_created_on>
+        <sys_id>7737aba2c39d42105386de1d05013130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eaa7ca0b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 19:01:18</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3f37aba2d29d4210902b3f413e8f522f</update_guid>
+        <update_guid_history>3f37aba2d29d4210902b3f413e8f522f:-2119535778,d9b6ef62a29d4210adb63fee5f953765:-275985570,493f976ad05d4210d7482a336366beb6:-1015688479,cbdb9b66265d42107587f2ec66136e34:-490002198,07db9b66aa5d42105a47c3132b8fbd30:773012203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 14:41:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>108f3275f9e345ae9944051d80fbd2c4</sys_id>
+        <sys_metadata>932bdb26c35d42105386de1d050131f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329984_visitors_solicitacoes</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_parent display_value="Solicitações ">2ec6436ec3d942105386de1d05013115</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_scope_delete display_value="">52c20de3f94c4a2e9eeeb1ad2e11c321</sys_scope_delete>
+        <sys_update_name>sys_ui_section_932bdb26c35d42105386de1d050131f8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_932bdb26c35d42105386de1d050131f8">7737aba2c39d42105386de1d05013130</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 14:41:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
