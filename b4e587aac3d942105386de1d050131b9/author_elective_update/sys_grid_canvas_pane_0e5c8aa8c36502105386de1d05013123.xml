@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Visitas Dashboard - New Tab">f7cbcae4c36502105386de1d050131f6</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2024-04-10 10:32:00">825cce24c36502105386de1d05013186</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 17:32:00</sys_created_on>
+        <sys_id>0e5c8aa8c36502105386de1d05013123</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>f7cbcae4c36502105386de1d050131f6</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_0e5c8aa8c36502105386de1d05013123</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 17:32:23</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitors">b4e587aac3d942105386de1d050131b9</application>
+        <file_path/>
+        <instance_id>6a696d0c1b41821c78c7cb7b234bcb9a</instance_id>
+        <instance_name>dev243257</instance_name>
+        <name>sys_grid_canvas_pane_0e5c8aa8c36502105386de1d05013123</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Visitas Dashboard - New Tab">f7cbcae4c36502105386de1d050131f6</grid_canvas><height>10</height><portal_widget display_value="Created 2024-04-10 10:32:00">825cce24c36502105386de1d05013186</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-10 17:32:00</sys_created_on><sys_id>0e5c8aa8c36502105386de1d05013123</sys_id><sys_mod_count>4</sys_mod_count><sys_name>f7cbcae4c36502105386de1d050131f6</sys_name><sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package><sys_policy/><sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope><sys_update_name>sys_grid_canvas_pane_0e5c8aa8c36502105386de1d05013123</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-10 17:32:23</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1001418701</payload_hash>
+        <record_name>f7cbcae4c36502105386de1d050131f6</record_name>
+        <reverted_from/>
+        <source>e0312b36c35102105386de1d050131ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 17:32:23</sys_created_on>
+        <sys_id>ef6ccaa4c36502105386de1d050131c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ec91160fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 17:32:23</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>a76ccaa4596502101a506173ca1134c9</update_guid>
+        <update_guid_history>a76ccaa4596502101a506173ca1134c9:1001418701,d76c0ea821650210a44e40e412bd6c41:-1649232518,0b5cc268806502103d14eb50573e7225:230294105,075c8aa8586502104b680de8cec333d3:-1649232518,ce5c8aa865650210dee61b77a72fb624:1001418701</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 17:32:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>09d2548ab1a244389f6315237f75a389</sys_id>
+        <sys_metadata>0e5c8aa8c36502105386de1d05013123</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f7cbcae4c36502105386de1d050131f6</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_scope_delete display_value="">52c20de3f94c4a2e9eeeb1ad2e11c321</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_0e5c8aa8c36502105386de1d05013123</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_0e5c8aa8c36502105386de1d05013123">ef6ccaa4c36502105386de1d050131c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 17:32:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
