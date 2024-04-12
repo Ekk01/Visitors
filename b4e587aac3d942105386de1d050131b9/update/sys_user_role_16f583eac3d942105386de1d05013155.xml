@@ -7,20 +7,20 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1329984_visitors.usuario</name>
-        <requires_subscription>-1</requires_subscription>
+        <requires_subscription>1</requires_subscription>
         <scoped_admin>false</scoped_admin>
         <suffix>x_1329984_visitors.usuario</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-04 16:35:56</sys_created_on>
         <sys_id>16f583eac3d942105386de1d05013155</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_1329984_visitors.usuario</sys_name>
         <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
         <sys_update_name>sys_user_role_16f583eac3d942105386de1d05013155</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-04 16:35:56</sys_updated_on>
+        <sys_updated_on>2024-04-12 14:48:42</sys_updated_on>
     </sys_user_role>
 </record_update>

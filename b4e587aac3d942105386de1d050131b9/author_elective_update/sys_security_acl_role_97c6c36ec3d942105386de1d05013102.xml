@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 16:39:33</sys_created_on>
+        <sys_id>97c6c36ec3d942105386de1d05013102</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329984_visitors_solicitacoes.x_1329984_visitors.gestor</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_security_acl display_value="x_1329984_visitors_solicitacoes">97c6836ec3d942105386de1d050131fe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_97c6c36ec3d942105386de1d05013102</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 16:39:33</sys_updated_on>
+        <sys_user_role display_value="x_1329984_visitors.gestor" name="x_1329984_visitors.gestor">1ef5cbeac3d942105386de1d050131c9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitors">b4e587aac3d942105386de1d050131b9</application>
+        <file_path/>
+        <instance_id>6a696d0c1b41821c78c7cb7b234bcb9a</instance_id>
+        <instance_name>dev243257</instance_name>
+        <name>sys_security_acl_role_97c6c36ec3d942105386de1d05013102</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 16:39:33</sys_created_on><sys_id>97c6c36ec3d942105386de1d05013102</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1329984_visitors_solicitacoes.x_1329984_visitors.gestor</sys_name><sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package><sys_policy/><sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope><sys_security_acl display_value="x_1329984_visitors_solicitacoes">97c6836ec3d942105386de1d050131fe</sys_security_acl><sys_update_name>sys_security_acl_role_97c6c36ec3d942105386de1d05013102</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 16:39:33</sys_updated_on><sys_user_role display_value="x_1329984_visitors.gestor" name="x_1329984_visitors.gestor">1ef5cbeac3d942105386de1d050131c9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1566880896</payload_hash>
+        <record_name>x_1329984_visitors_solicitacoes.x_1329984_visitors.gestor</record_name>
+        <reverted_from/>
+        <source>b4e587aac3d942105386de1d050131bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 16:39:33</sys_created_on>
+        <sys_id>13c6c36ec3d942105386de1d05013106</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ea9fada380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 16:39:33</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>57c6c36ecad94210eb833089c0348d05</update_guid>
+        <update_guid_history>57c6c36ecad94210eb833089c0348d05:-1566880896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1329984_visitors_solicitacoes.x_1329984_visitors.gestor">6b693709c3a942105386de1d0501312c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 14:45:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>b41f0c490f9d42fd9ed0205eceab0b59</sys_id>
+        <sys_metadata>97c6c36ec3d942105386de1d05013102</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329984_visitors_solicitacoes.x_1329984_visitors.gestor</sys_name>
+        <sys_package display_value="Visitors" source="x_1329984_visitors">b4e587aac3d942105386de1d050131b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitors">b4e587aac3d942105386de1d050131b9</sys_scope>
+        <sys_scope_delete display_value="">52c20de3f94c4a2e9eeeb1ad2e11c321</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_97c6c36ec3d942105386de1d05013102</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_97c6c36ec3d942105386de1d05013102">13c6c36ec3d942105386de1d05013106</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 14:45:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
